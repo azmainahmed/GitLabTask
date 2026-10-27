@@ -1,1 +1,1 @@
-The system shall allow users to register an account using their email address.
+The system shall allow users to reset their password using email.
